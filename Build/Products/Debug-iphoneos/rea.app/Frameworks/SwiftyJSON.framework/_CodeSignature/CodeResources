@@ -8,13 +8,13 @@
 		<data>
 		vjOvpR9auv7VfGvqys6MhGyJAgo=
 		</data>
-		<key>Modules/SwiftyJSON.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/SwiftyJSON.swiftmodule/arm.swiftdoc</key>
 		<data>
 		U8F7egsZ4J+tp/tNKOVBJIGXUmw=
 		</data>
-		<key>Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/SwiftyJSON.swiftmodule/arm.swiftmodule</key>
 		<data>
-		QiaDKad2tM9l5CwiWgPur9V45ug=
+		PrHW/qlhH9TCjlLDZl/4WsMgdJQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,13 +23,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Modules/SwiftyJSON.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/SwiftyJSON.swiftmodule/arm.swiftdoc</key>
 		<data>
 		U8F7egsZ4J+tp/tNKOVBJIGXUmw=
 		</data>
-		<key>Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/SwiftyJSON.swiftmodule/arm.swiftmodule</key>
 		<data>
-		QiaDKad2tM9l5CwiWgPur9V45ug=
+		PrHW/qlhH9TCjlLDZl/4WsMgdJQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

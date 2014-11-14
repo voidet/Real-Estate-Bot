@@ -8,13 +8,13 @@
 		<data>
 		BvL2NnszQc6osnlk2ZOCS6M0ZOU=
 		</data>
-		<key>Modules/Snappy.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Snappy.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ZXDrkabcXMl12hOyaUKMMvNuvM4=
 		</data>
-		<key>Modules/Snappy.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Snappy.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zGzP/2isiWMUgEDiP2IHmjzSyPo=
+		C0/tggTYX8UJqJi02O4f78uwfcA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,13 +23,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Modules/Snappy.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Snappy.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ZXDrkabcXMl12hOyaUKMMvNuvM4=
 		</data>
-		<key>Modules/Snappy.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Snappy.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zGzP/2isiWMUgEDiP2IHmjzSyPo=
+		C0/tggTYX8UJqJi02O4f78uwfcA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

@@ -8,13 +8,13 @@
 		<data>
 		c6i4zaG816KoQEMLbS/+Mn4Bu8U=
 		</data>
-		<key>Modules/Alamofire.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Alamofire.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ve8xsCEhMotRwVFUJgh1LNbxxFY=
 		</data>
-		<key>Modules/Alamofire.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Alamofire.swiftmodule/arm.swiftmodule</key>
 		<data>
-		5EaP3NIiX7ZaVP/LVd+RhwThzBA=
+		HDIOYiRE8DVPsUnqgNQmttWBRXc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,13 +23,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Modules/Alamofire.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Alamofire.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ve8xsCEhMotRwVFUJgh1LNbxxFY=
 		</data>
-		<key>Modules/Alamofire.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Alamofire.swiftmodule/arm.swiftmodule</key>
 		<data>
-		5EaP3NIiX7ZaVP/LVd+RhwThzBA=
+		HDIOYiRE8DVPsUnqgNQmttWBRXc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

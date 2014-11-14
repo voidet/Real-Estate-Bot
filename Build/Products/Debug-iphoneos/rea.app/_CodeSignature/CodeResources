@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>36604750_f88aa8513a_z.jpg</key>
-		<data>
-		Ror2ah2Trjko/9rJ53a6EGT6M1Q=
-		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		AloVtkOTEvPhpkWmCZR7tde9gQ4=
@@ -16,7 +12,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CCO8PWP5jhaQe3PSbJYW2Yd4cVw=
+			QbFM9Lri+DdZCV14wxNsHWzwy/U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -25,7 +21,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C93zirB5Ejmx9T/uie0kHCEPrDQ=
+			XqODNWtCter/MK4mfARr9gSK4Oc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -43,7 +39,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			knMexCnuLJAZ47Ih03fzSMe7voo=
+			xJ69L22sbmyIs1J7c6k3PUVKLgg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -52,7 +48,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CllwiheDbNU4muBRp6t/MjpUT4U=
+			a0diXfhUZ6N0FEWkRtQLEQN3urM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -61,26 +57,26 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gYXcqFu0HNn4SE+IXqfD0FMWCEo=
+			9sLupNDB1kgP3q5TOuI01tfTTwg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		Uh/l/m89ggSleehb1XaxNJFZ8Vc=
+		xQlPcL1BOc/SplVYcJ59ebAAfCk=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
 		c6i4zaG816KoQEMLbS/+Mn4Bu8U=
 		</data>
-		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ve8xsCEhMotRwVFUJgh1LNbxxFY=
 		</data>
-		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule</key>
 		<data>
-		5EaP3NIiX7ZaVP/LVd+RhwThzBA=
+		HDIOYiRE8DVPsUnqgNQmttWBRXc=
 		</data>
 		<key>Frameworks/Alamofire.framework/Modules/module.modulemap</key>
 		<data>
@@ -88,19 +84,19 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ckqG+ShP0P6lMgKSty1tm6PpavM=
+		5ywXTQGct+5a9ar7I1QHI9Lff7c=
 		</data>
 		<key>Frameworks/Snappy.framework/Info.plist</key>
 		<data>
 		BvL2NnszQc6osnlk2ZOCS6M0ZOU=
 		</data>
-		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ZXDrkabcXMl12hOyaUKMMvNuvM4=
 		</data>
-		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zGzP/2isiWMUgEDiP2IHmjzSyPo=
+		C0/tggTYX8UJqJi02O4f78uwfcA=
 		</data>
 		<key>Frameworks/Snappy.framework/Modules/module.modulemap</key>
 		<data>
@@ -108,23 +104,23 @@
 		</data>
 		<key>Frameworks/Snappy.framework/Snappy</key>
 		<data>
-		Vz5l+wwvmKgompyPCpArKcWFILU=
+		gT9RLZGkUSytBl6BvBQ5YMpCJXs=
 		</data>
 		<key>Frameworks/Snappy.framework/_CodeSignature/CodeResources</key>
 		<data>
-		HOkI4dW4rjNDo8nqqXumO7HdvtI=
+		VX+EF/mMgKqDiIUN7OnReANKJqE=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/Info.plist</key>
 		<data>
 		vjOvpR9auv7VfGvqys6MhGyJAgo=
 		</data>
-		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftdoc</key>
 		<data>
 		U8F7egsZ4J+tp/tNKOVBJIGXUmw=
 		</data>
-		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule</key>
 		<data>
-		QiaDKad2tM9l5CwiWgPur9V45ug=
+		PrHW/qlhH9TCjlLDZl/4WsMgdJQ=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/Modules/module.modulemap</key>
 		<data>
@@ -132,51 +128,51 @@
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/SwiftyJSON</key>
 		<data>
-		VanXwkaPNhYu03WRX9AwjHMRbVg=
+		Nf7PahXX+kr4dmU099lrV/Jd63w=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
 		<data>
-		a4bqlAQW3paz0x2BtN+l5uF2604=
+		AAaPLrO6swqXh6FHVDEZZ+atw04=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		kegMuS8FWHgsSQHOnAzU3Xk4uTs=
+		SB1pcFbH0zIdGaiRewOhNt/fXxo=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		8kd2yVy8duSyHaxhdkVt+dj4KO4=
+		y0MSGA0gQiI7dNXZtg5I7AXjHwo=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		Z2+92MrV0Zcr3dgtMiMnQrRkuLY=
+		cJG+CcylL65vYldilwLksjsQPGQ=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		QJqo2HodcQQLoZ5XQru2BKqdNUM=
+		nJfblSMCIdsXwZWCpqbfohrpkCE=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		EXan8QmYBvraB2/cqGQLqB9fEIY=
+		L0SjFkGuOBMITpmYD2lMpfEDOhE=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		fmN37/I//mYxyDS2wWTJEUDW9xA=
+		kB7jSGWQHLlRYZHy32fIgYqSAkk=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		lbyfWhYo7abQaiI4Hhl8QVbCYG0=
+		JdNlMt3WOsoAJFdi/E0SoOnQXik=
 		</data>
 		<key>Frameworks/libswiftSecurity.dylib</key>
 		<data>
-		0nKhnLHebOa9uYV4MN8bG8pQ2OE=
+		PN+HprhS6A5LW4BDBISD53vmWCw=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		JDh2rv43CLqoibSqMY3yCyprKoY=
+		iv1Vai2i/UZjSCnG4RW0Y0vstTk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BzlmaaSvUvuOiyzlGplx2q3qt3w=
+		yGCyUvscUxkOdCi8VyXyqazsegU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -184,15 +180,15 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		balaWjk7xnx60Yb7qNm6casPNJE=
+		HG5G1Wstz7OBb5qyWOopHJ42kwM=
+		</data>
+		<key>jm-casamosteiro----.jpg</key>
+		<data>
+		ppt15NioopguRqZ3yYVhPNh0YCw=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>36604750_f88aa8513a_z.jpg</key>
-		<data>
-		Ror2ah2Trjko/9rJ53a6EGT6M1Q=
-		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		AloVtkOTEvPhpkWmCZR7tde9gQ4=
@@ -201,7 +197,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CCO8PWP5jhaQe3PSbJYW2Yd4cVw=
+			QbFM9Lri+DdZCV14wxNsHWzwy/U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -210,7 +206,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C93zirB5Ejmx9T/uie0kHCEPrDQ=
+			XqODNWtCter/MK4mfARr9gSK4Oc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -228,7 +224,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			knMexCnuLJAZ47Ih03fzSMe7voo=
+			xJ69L22sbmyIs1J7c6k3PUVKLgg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -237,7 +233,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CllwiheDbNU4muBRp6t/MjpUT4U=
+			a0diXfhUZ6N0FEWkRtQLEQN3urM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -246,26 +242,26 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gYXcqFu0HNn4SE+IXqfD0FMWCEo=
+			9sLupNDB1kgP3q5TOuI01tfTTwg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		Uh/l/m89ggSleehb1XaxNJFZ8Vc=
+		xQlPcL1BOc/SplVYcJ59ebAAfCk=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
 		c6i4zaG816KoQEMLbS/+Mn4Bu8U=
 		</data>
-		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ve8xsCEhMotRwVFUJgh1LNbxxFY=
 		</data>
-		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule</key>
 		<data>
-		5EaP3NIiX7ZaVP/LVd+RhwThzBA=
+		HDIOYiRE8DVPsUnqgNQmttWBRXc=
 		</data>
 		<key>Frameworks/Alamofire.framework/Modules/module.modulemap</key>
 		<data>
@@ -273,19 +269,19 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ckqG+ShP0P6lMgKSty1tm6PpavM=
+		5ywXTQGct+5a9ar7I1QHI9Lff7c=
 		</data>
 		<key>Frameworks/Snappy.framework/Info.plist</key>
 		<data>
 		BvL2NnszQc6osnlk2ZOCS6M0ZOU=
 		</data>
-		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm.swiftdoc</key>
 		<data>
 		ZXDrkabcXMl12hOyaUKMMvNuvM4=
 		</data>
-		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/Snappy.framework/Modules/Snappy.swiftmodule/arm.swiftmodule</key>
 		<data>
-		zGzP/2isiWMUgEDiP2IHmjzSyPo=
+		C0/tggTYX8UJqJi02O4f78uwfcA=
 		</data>
 		<key>Frameworks/Snappy.framework/Modules/module.modulemap</key>
 		<data>
@@ -293,23 +289,23 @@
 		</data>
 		<key>Frameworks/Snappy.framework/Snappy</key>
 		<data>
-		Vz5l+wwvmKgompyPCpArKcWFILU=
+		gT9RLZGkUSytBl6BvBQ5YMpCJXs=
 		</data>
 		<key>Frameworks/Snappy.framework/_CodeSignature/CodeResources</key>
 		<data>
-		HOkI4dW4rjNDo8nqqXumO7HdvtI=
+		VX+EF/mMgKqDiIUN7OnReANKJqE=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/Info.plist</key>
 		<data>
 		vjOvpR9auv7VfGvqys6MhGyJAgo=
 		</data>
-		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftdoc</key>
+		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftdoc</key>
 		<data>
 		U8F7egsZ4J+tp/tNKOVBJIGXUmw=
 		</data>
-		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule</key>
+		<key>Frameworks/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule</key>
 		<data>
-		QiaDKad2tM9l5CwiWgPur9V45ug=
+		PrHW/qlhH9TCjlLDZl/4WsMgdJQ=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/Modules/module.modulemap</key>
 		<data>
@@ -317,51 +313,55 @@
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/SwiftyJSON</key>
 		<data>
-		VanXwkaPNhYu03WRX9AwjHMRbVg=
+		Nf7PahXX+kr4dmU099lrV/Jd63w=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
 		<data>
-		a4bqlAQW3paz0x2BtN+l5uF2604=
+		AAaPLrO6swqXh6FHVDEZZ+atw04=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		kegMuS8FWHgsSQHOnAzU3Xk4uTs=
+		SB1pcFbH0zIdGaiRewOhNt/fXxo=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		8kd2yVy8duSyHaxhdkVt+dj4KO4=
+		y0MSGA0gQiI7dNXZtg5I7AXjHwo=
 		</data>
 		<key>Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		Z2+92MrV0Zcr3dgtMiMnQrRkuLY=
+		cJG+CcylL65vYldilwLksjsQPGQ=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		QJqo2HodcQQLoZ5XQru2BKqdNUM=
+		nJfblSMCIdsXwZWCpqbfohrpkCE=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		EXan8QmYBvraB2/cqGQLqB9fEIY=
+		L0SjFkGuOBMITpmYD2lMpfEDOhE=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		fmN37/I//mYxyDS2wWTJEUDW9xA=
+		kB7jSGWQHLlRYZHy32fIgYqSAkk=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		lbyfWhYo7abQaiI4Hhl8QVbCYG0=
+		JdNlMt3WOsoAJFdi/E0SoOnQXik=
 		</data>
 		<key>Frameworks/libswiftSecurity.dylib</key>
 		<data>
-		0nKhnLHebOa9uYV4MN8bG8pQ2OE=
+		PN+HprhS6A5LW4BDBISD53vmWCw=
 		</data>
 		<key>Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		JDh2rv43CLqoibSqMY3yCyprKoY=
+		iv1Vai2i/UZjSCnG4RW0Y0vstTk=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		balaWjk7xnx60Yb7qNm6casPNJE=
+		HG5G1Wstz7OBb5qyWOopHJ42kwM=
+		</data>
+		<key>jm-casamosteiro----.jpg</key>
+		<data>
+		ppt15NioopguRqZ3yYVhPNh0YCw=
 		</data>
 	</dict>
 	<key>rules</key>

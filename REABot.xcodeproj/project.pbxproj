@@ -16,9 +16,9 @@
 		13B6EBF51A15E071006AEF3E /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B6EBF41A15E071006AEF3E /* WebViewController.swift */; };
 		13B6EBF71A15E126006AEF3E /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13B6EBF61A15E126006AEF3E /* WebKit.framework */; };
 		13B6EC011A15E3BD006AEF3E /* Snappy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13B6EBFE1A15E3B8006AEF3E /* Snappy.framework */; };
-		13B6EC031A15E559006AEF3E /* 36604750_f88aa8513a_z.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 13B6EC021A15E559006AEF3E /* 36604750_f88aa8513a_z.jpg */; };
 		13B6EC041A15E769006AEF3E /* Snappy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13B6EBFE1A15E3B8006AEF3E /* Snappy.framework */; };
 		13B6EC051A15E769006AEF3E /* Snappy.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 13B6EBFE1A15E3B8006AEF3E /* Snappy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		13B6EC091A15E957006AEF3E /* jm-casamosteiro----.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 13B6EC081A15E957006AEF3E /* jm-casamosteiro----.jpg */; };
 		13C4B9BA1A14A20000657E58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13C4B9B91A14A20000657E58 /* AppDelegate.swift */; };
 		13C4B9BC1A14A20000657E58 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13C4B9BB1A14A20000657E58 /* MainViewController.swift */; };
 		13C4B9BF1A14A20000657E58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13C4B9BD1A14A20000657E58 /* Main.storyboard */; };
@@ -136,7 +136,7 @@
 		13B6EBF41A15E071006AEF3E /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		13B6EBF61A15E126006AEF3E /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		13B6EBF81A15E3B8006AEF3E /* Snappy.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Snappy.xcodeproj; sourceTree = SOURCE_ROOT; };
-		13B6EC021A15E559006AEF3E /* 36604750_f88aa8513a_z.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 36604750_f88aa8513a_z.jpg; sourceTree = "<group>"; };
+		13B6EC081A15E957006AEF3E /* jm-casamosteiro----.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jm-casamosteiro----.jpg"; sourceTree = "<group>"; };
 		13C4B9B41A14A20000657E58 /* rea.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rea.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13C4B9B81A14A20000657E58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		13C4B9B91A14A20000657E58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -244,13 +244,13 @@
 		13C4B9B61A14A20000657E58 /* REABot */ = {
 			isa = PBXGroup;
 			children = (
+				13B6EC081A15E957006AEF3E /* jm-casamosteiro----.jpg */,
 				13B6EBF81A15E3B8006AEF3E /* Snappy.xcodeproj */,
 				13B6EBE51A15DCD1006AEF3E /* SwiftyJSON.xcodeproj */,
 				13B6EBD71A15DC95006AEF3E /* Alamofire.xcodeproj */,
 				13C4B9F11A14A31F00657E58 /* Frameworks */,
 				13C4B9B91A14A20000657E58 /* AppDelegate.swift */,
 				13B6EBD31A15DB17006AEF3E /* Alamofire-SwiftyJSON.swift */,
-				13B6EC021A15E559006AEF3E /* 36604750_f88aa8513a_z.jpg */,
 				13C4B9BB1A14A20000657E58 /* MainViewController.swift */,
 				13C4B9BD1A14A20000657E58 /* Main.storyboard */,
 				13C4B9C01A14A20000657E58 /* Images.xcassets */,
@@ -451,8 +451,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13B6EC091A15E957006AEF3E /* jm-casamosteiro----.jpg in Resources */,
 				13C4B9BF1A14A20000657E58 /* Main.storyboard in Resources */,
-				13B6EC031A15E559006AEF3E /* 36604750_f88aa8513a_z.jpg in Resources */,
 				13C4B9C41A14A20000657E58 /* LaunchScreen.xib in Resources */,
 				13C4B9C11A14A20000657E58 /* Images.xcassets in Resources */,
 			);
@@ -614,8 +614,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Richard Sbresny (99TRBY7FGX)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Richard Sbresny (99TRBY7FGX)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -624,7 +624,8 @@
 				INFOPLIST_FILE = REABot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = rea;
-				PROVISIONING_PROFILE = "a98a2c7e-c047-4253-925c-e0852211f675";
+				PROVISIONING_PROFILE = "d8e4c802-f625-4aa5-8d4e-3d280ffb078e";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -632,8 +633,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Richard Sbresny (99TRBY7FGX)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Richard Sbresny (99TRBY7FGX)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -642,7 +643,8 @@
 				INFOPLIST_FILE = REABot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = rea;
-				PROVISIONING_PROFILE = "a98a2c7e-c047-4253-925c-e0852211f675";
+				PROVISIONING_PROFILE = "d8e4c802-f625-4aa5-8d4e-3d280ffb078e";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -661,7 +663,7 @@
 				INFOPLIST_FILE = REABotTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/REABot.app/REABot";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rea.app/rea";
 			};
 			name = Debug;
 		};
@@ -676,7 +678,7 @@
 				INFOPLIST_FILE = REABotTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/REABot.app/REABot";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/rea.app/rea";
 			};
 			name = Release;
 		};

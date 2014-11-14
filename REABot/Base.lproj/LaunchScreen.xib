@@ -10,7 +10,7 @@
             <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="36604750_f88aa8513a_z.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="uRu-Ve-Woo">
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="jm-casamosteiro----.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="uRu-Ve-Woo">
                     <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
                 </imageView>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RYn-nS-5fx">
@@ -39,6 +39,6 @@ BOT</string>
         </view>
     </objects>
     <resources>
-        <image name="36604750_f88aa8513a_z.jpg" width="640" height="468"/>
+        <image name="jm-casamosteiro----.jpg" width="900" height="600"/>
     </resources>
 </document>
