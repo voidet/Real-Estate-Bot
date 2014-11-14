@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Parse
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -15,13 +16,22 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 	func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-		// Override point for customization after application launch.
+		Parse.setApplicationId("LpxxXBVjw1yjQVoOiIi7OzMThAuOZQHxjZ60OwfT", clientKey: "SNpVPmt1ymAeTnSMQ2EXJW4UX6qDTY3hDPlXdAdA")
+		let settings = UIUserNotificationSettings(forTypes: UIUserNotificationType.Badge|UIUserNotificationType.Sound|UIUserNotificationType.Alert, categories: nil)
+		application.registerUserNotificationSettings(settings)
+		application.registerForRemoteNotifications()
+		application.applicationIconBadgeNumber = 0;
 		return true
 	}
-
-	func applicationWillResignActive(application: UIApplication) {
-		// Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
-		// Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
+	
+	func application(application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: NSData) {
+		var currentInstallation = PFInstallation.currentInstallation()
+		currentInstallation.setDeviceTokenFromData(deviceToken)
+		currentInstallation.save()
+	}
+	
+	func application(application: UIApplication, didReceiveRemoteNotification userInfo: [NSObject : AnyObject]) {
+		PFPush.handlePush(userInfo)
 	}
 
 	func applicationDidEnterBackground(application: UIApplication) {
@@ -31,6 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func applicationWillEnterForeground(application: UIApplication) {
 		// Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
+		application.applicationIconBadgeNumber = 0;
 	}
 
 	func applicationDidBecomeActive(application: UIApplication) {
@@ -41,6 +52,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 		// Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 	}
 
-
 }
-

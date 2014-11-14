@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/voidet/Desktop/iOS/REABot/Build/Products/Debug-iphoneos/Snappy.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Snappy-Swift.h",
+          'external-contents': "/Users/voidet/Desktop/iOS/REABot/Build/Products/Debug-iphoneos/Snappy.framework/Headers/Snappy-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/voidet/Desktop/iOS/REABot/Build/Products/Debug-iphoneos/Snappy.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/voidet/Desktop/iOS/REABot/Build/Products/Debug-iphoneos/Snappy.framework/Modules/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

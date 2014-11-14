@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13C4B9B31A14A20000657E58"
-               BuildableName = "REABot.app"
+               BuildableName = "rea.app"
                BlueprintName = "REABot"
                ReferencedContainer = "container:REABot.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13C4B9B31A14A20000657E58"
-            BuildableName = "REABot.app"
+            BuildableName = "rea.app"
             BlueprintName = "REABot"
             ReferencedContainer = "container:REABot.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13C4B9B31A14A20000657E58"
-            BuildableName = "REABot.app"
+            BuildableName = "rea.app"
             BlueprintName = "REABot"
             ReferencedContainer = "container:REABot.xcodeproj">
          </BuildableReference>
@@ -94,7 +94,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13C4B9B31A14A20000657E58"
-            BuildableName = "REABot.app"
+            BuildableName = "rea.app"
             BlueprintName = "REABot"
             ReferencedContainer = "container:REABot.xcodeproj">
          </BuildableReference>
